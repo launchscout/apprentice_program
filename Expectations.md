@@ -34,10 +34,11 @@ The apprentices should be able to:
 They apprentices should be able to:
 
 * Start to understand what the team is/isn't responsible for.
-* Should contribute more heavily in the 30-50% driving range.
-* Should be engaging as a navigator if they aren't driving (reading the code, making sure requirements are being met, etc)
-* Should start interacting with teams outside of the current team, as needed, for tickets
-* Should handle giving standup updates for the pair.
+* Contribute more heavily in the 30-50% driving range.
+* Engaging as a navigator if they aren't driving (reading the code, making sure requirements are being met, etc)
+* Start interacting with teams outside of the current team, as needed, for tickets
+* Handle giving standup updates for the pair.
+* Start learning a second programming langauge.
 
 ## End of month four
 
@@ -48,3 +49,23 @@ They apprentices should be able to:
 * Should be able to figure out where code is and how to make the changes needed for tickets
 * Have room to be wrong, but starting to get on the right track when understanding things.
 * Should be able to explain a piece of code or ticket they worked on with a pair.
+* Use a debugger.
+* Start to feel comfortable in a second programming language.
+
+## End of month five
+
+They apprentices should be able to:
+
+* Pick up tickets they aren't core day to day systems but need to be worked on (e.g. Echo at Kroger, or DevOps tickets)
+* Feel 100% comfortable owning a ticket from start to finish
+* Be comfortable picking up bug stories and working on them
+
+## End of month six
+
+They apprentices should be able to:
+
+* Understand the difference between client validations and backend security
+* Work on emergency production issues
+* Articulate and express their ideas as part of a team setting, via code retros, normal retros, or in sprint planning
+* Feel comfortable guessing where an issue might be for bug fixing
+
