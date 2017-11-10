@@ -64,8 +64,8 @@ They apprentices should be able to:
 
 They apprentices should be able to:
 
-* Understand the difference between client validations and backend security
-* Work on emergency production issues
-* Articulate and express their ideas as part of a team setting, via code retros, normal retros, or in sprint planning
-* Feel comfortable guessing where an issue might be for bug fixing
-
+* Understand the difference between client validations and backend security.
+* Work on emergency production issues.
+* Articulate and express their ideas as part of a team setting, via code retros, normal retros, or in sprint planning.
+* Feel comfortable guessing where an issue might be for bug fixing.
+* Have the team's trust to handle and resolve almost any ticket.
