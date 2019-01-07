@@ -20,6 +20,8 @@ We expect the apprentices to:
 The apprentices should be progressing and should start to feel like part of the team. Many things will still be new or fresh, but they should be able to:
 
 * Start driving more, at least 20% of the time. As a mid or senior dev, things will still feel slow while pairing, but should feel faster than Day 1.
+* With support from the team, set up and run the application on their system
+* Handle giving standup updates
 
 ## End of month two
 
@@ -28,28 +30,28 @@ The apprentices should be able to:
 * Read/understand/pick the stories you are working on. They may still need help getting started on a story, but they should be able to reason out where and how to change code if you point them in the right direction
 * They should at least be writing some tests, with help, to make sure the code is working as expected.
 * Should feel more comfortable with how the front-end and back-end code talk to each other and interact.
+* Should be able to explain a piece of code or ticket they worked on with a pair.
+* Use a debugger effectively
 
 ## End of month three
 
 They apprentices should be able to:
 
+* Work a ticket or two, 100% solo.
 * Start to understand what the team is/isn't responsible for.
 * Contribute more heavily in the 30-50% driving range.
 * Engaging as a navigator if they aren't driving (reading the code, making sure requirements are being met, etc)
 * Start interacting with teams outside of the current team, as needed, for tickets
-* Handle giving standup updates for the pair.
-* Start learning a second programming langauge.
+* Start learning a second programming language.
+* Present their work to groups of developers/stakeholders
 
 ## End of month four
 
 They apprentices should be able to:
 
-* Work a ticket or two, 100% solo.
 * Should be voicing opinions on how to best approach code
 * Should be able to figure out where code is and how to make the changes needed for tickets
 * Have room to be wrong, but starting to get on the right track when understanding things.
-* Should be able to explain a piece of code or ticket they worked on with a pair.
-* Use a debugger.
 * Start to feel comfortable in a second programming language.
 
 ## End of month five
