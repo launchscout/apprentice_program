@@ -37,7 +37,7 @@ The apprentices should be able to:
 
 They apprentices should be able to:
 
-* Work a ticket or two, 100% solo.
+* Work on a development task that involves coding (story or subset of story) and do 100% of the typing of code.
 * Start to understand what the team is/isn't responsible for.
 * Contribute more heavily in the 30-50% driving range.
 * Engaging as a navigator if they aren't driving (reading the code, making sure requirements are being met, etc)
