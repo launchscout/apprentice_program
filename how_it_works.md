@@ -48,7 +48,17 @@ Here are the activities an apprentice will normally do as part of a team
 
 ### Implementing features with the team
 
+This is the core activity we expect the apprentices to spend most of their time doing. We expect this to be mostly done via pair programming. In the beginning, it will be "mobbing" with both apprentices and the mentor. Going slowly and giving each apprentice time at the keyboard, even if they don't know what they are doing yet and are mostly taking dictation, is ok. As soon as is reasonable, this might move into 1-1 pairing with other team members. When it does, we will regularly collect feedback from other team members pairing with apprentices.
+
 ### Coding Together
+
+Each week, we like to get all the apprentices together to see and discuss one another's code. There are several formats and mechanisms we've used to do this in the past:
+
+* Exercism.io
+  * Assign ahead and review together
+  * Mob together
+* "Breakable Toy" Project assigments
+* Code reviews of their day to day work
 
 ### Book club
 
