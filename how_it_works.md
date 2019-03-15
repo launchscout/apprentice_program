@@ -62,8 +62,13 @@ Each week, we like to get all the apprentices together to see and discuss one an
 
 ### Book club
 
-### Week 1-1s
+* Apprenticeship Patterns
+
+### Weekly 1-1s
 
 ### Monthly Assessment
+
+* Meet with members of client team to review performance of apprentices.
+* Compare apprentice progress to expectations document.
 
 ## 
