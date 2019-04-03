@@ -48,7 +48,7 @@ Here are the activities an apprentice will normally do as part of a team
 
 ### Implementing features with the team
 
-This is the core activity we expect the apprentices to spend most of their time doing. We expect this to be mostly done via pair programming. In the beginning, it will be "mobbing" with both apprentices and the mentor. Going slowly and giving each apprentice time at the keyboard, even if they don't know what they are doing yet and are mostly taking dictation, is ok. As soon as is reasonable, this might move into 1-1 pairing with other team members. When it does, we will regularly collect feedback from other team members pairing with apprentices.
+This is the core activity we expect the apprentices to spend most of their time doing. We expect this to be mostly done via pair programming. In the beginning, it will be "mobbing" with both apprentices and the mentor. Going slowly and giving each apprentice time at the keyboard, even if they don't know what they are doing yet and are mostly taking dictation, is ok. As soon as is reasonable, this might move into 1-1 pairing with other team members. When it does, we will regularly collect feedback from other team members pairing with apprentices. We ask other developers pairing with apprentices to fill out a [survey](https://www.surveymonkey.com/r/X2BKSKB).
 
 ### Coding Together
 
@@ -59,11 +59,25 @@ Each week, we like to get all the apprentices together to see and discuss one an
   * Mob together
 * "Breakable Toy" Project assigments
 * Code reviews of their day to day work
+* Assignments related to book club readings
+* TDD exercise
 
 ### Book club
 
+Once a week, we discuss something we've all been reading. Here are a few of the books we've used and enjoyed in the past:
+
+* Apprenticeship Patterns
+* Refactoring by Martin Fowler
+* Practical Object Oriented Desing in Ruby by Sandy Metz (POODR)
+* Growing Object Oriented Software, Guided by Tests (GOOSE)
+* [BaseCS Blog Series](https://github.com/vaidehijoshi/basecs-series)
+
 ### Week 1-1s
+
+The weekly 1-1s are a chance to check in with the apprentice and see how things are going. The format is pretty open ended and we want to give the apprentice a chance to talk about whatever is most important to them. We also have a few questions we like to ask as a way to guage progress. We have them in a [survey](https://www.surveymonkey.com/r/NL9NKV6).
 
 ### Monthly Assessment
 
-## 
+For the monthly assessment, we want to discuss with the leaders of the team they are on how the apprentices are doing. In advance, we will prepare a written summary of their performance compared with the expectations. Mostly this will be focused on the current month, but if they are achieving milestones ahead of schedule that is obviously worth pointing out. The main question we want to answer is "If we saw the same trajectory of progress for the rest of the apprenticeship, would they be on track to be hired." To decide if they should be hired, a question we like to ask is "If you removed them from team, would you feel the loss of productivity (hopefully keenly)?"
+
+ 
