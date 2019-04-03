@@ -72,12 +72,12 @@ Once a week, we discuss something we've all been reading. Here are a few of the 
 * Growing Object Oriented Software, Guided by Tests (GOOSE)
 * [BaseCS Blog Series](https://github.com/vaidehijoshi/basecs-series)
 
-### Week 1-1s
+### Weekly 1-1s
 
 The weekly 1-1s are a chance to check in with the apprentice and see how things are going. The format is pretty open ended and we want to give the apprentice a chance to talk about whatever is most important to them. We also have a few questions we like to ask as a way to guage progress. We have them in a [survey](https://www.surveymonkey.com/r/NL9NKV6).
 
 ### Monthly Assessment
 
-For the monthly assessment, we want to discuss with the leaders of the team they are on how the apprentices are doing. In advance, we will prepare a written summary of their performance compared with the expectations. Mostly this will be focused on the current month, but if they are achieving milestones ahead of schedule that is obviously worth pointing out. The main question we want to answer is "If we saw the same trajectory of progress for the rest of the apprenticeship, would they be on track to be hired." To decide if they should be hired, a question we like to ask is "If you removed them from team, would you feel the loss of productivity (hopefully keenly)?"
+For the monthly assessment, we want to discuss with the leaders of the team they are on how the apprentices are doing. In advance, we will prepare a written summary of their performance compared with the Expectations document. Mostly this will be focused on the current month, but if they are achieving milestones ahead of schedule that is obviously worth pointing out. The main question we want to answer is "If we saw the same trajectory of progress for the rest of the apprenticeship, would they be on track to be hired." To decide if they should be hired, a question we like to ask is "If you removed them from team, would you feel the loss of productivity (hopefully keenly)?"
 
  
