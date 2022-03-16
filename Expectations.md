@@ -10,7 +10,7 @@ Apprentices will be coming in fresh and should have a basic understanding of pro
 
 We expect the apprentices to:
 
-* Particpate in planning poker, backlog grooming, sprint reviews, and retros. That includes pointing out stories and giving opinions where it makes sense.
+* Particpate in planning, backlog grooming, sprint reviews, and retros. That includes pointing out stories and giving opinions where it makes sense.
 * Start pair programming. Asking lots of questions, taking notes, and trying to learn as much as possible.
 * Spend the time outside of pair programming (or at home) exploring topics they've taken notes on, learning when they can.
 * Speak up and contribute by giving their understanding of the code they are looking at.
